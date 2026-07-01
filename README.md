@@ -1,7 +1,4 @@
-# MVP de Machine Learning 
-
-## Tema
-Previsão de adesão a depósito a prazo.
+# MVP de Machine Learning - Previsão de Adesão a Depósito a Prazo
 
 ## Objetivo
 Desenvolver um modelo de classificação supervisionada capaz de prever se um cliente irá aderir ou não a um depósito a prazo com base em dados históricos de campanhas de marketing bancário.
@@ -28,8 +25,4 @@ No notebook foram realizadas as seguintes etapas:
 - avaliação e conclusão final
 
 ## Melhor modelo
-O melhor desempenho foi obtido com o modelo **RandomForest Tunado**.
-
-## Notebook
-O notebook pode ser acessado diretamente neste repositório:
-`mvp_machine_learning.ipynb`
+O melhor resultado foi obtido com o **RandomForest Tunado**, que apresentou o maior F1-score e o maior ROC AUC entre os modelos avaliados.
